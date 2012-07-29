@@ -1,4 +1,9 @@
-alarmuino
-=========
+DESCRIPTION
+===========
 
 Arduino based security system which uses motion sensors and Nokia phone to send SMS or make a call
+
+CREDITS
+=======
+
+http://gnokii.org/ open source project for serial communication for variouse phones
