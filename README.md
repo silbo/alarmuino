@@ -2,7 +2,7 @@ DESCRIPTION
 ===========
 
 <img alt="arduino-nokia" src="http://1.bp.blogspot.com/-Hirf4aZHbRI/UUrbZICU1rI/AAAAAAAAAKM/5wMKTcCDhW4/s1600/Arduino_3310.jpg" width="218px">
-![fbus-connectors](https://lh3.googleusercontent.com/-yGnFUY9QF98/VKVMiSLpW3I/AAAAAAAAJig/vzwHnR7ZEpE/w310-h163-no/jo.jpg)
+![fbus-connectors](https://lh4.googleusercontent.com/-phU7G6n1tDk/VKWLq1Vs96I/AAAAAAAAJrs/Do9PwlSf0Ak/w310-h163-no/jo.jpg)
 
 * Arduino based security system which uses motion sensors and Nokia phone to send SMS or make a call
 * the system was only tested and fully working with Nokia 5140i
