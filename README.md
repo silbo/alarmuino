@@ -12,15 +12,11 @@ DESCRIPTION
 SETUP
 =====
 
-for connecting my phone to Arduino I used this cable:
-http://www.dealextreme.com/p/data-cable-compatible-with-nokia-ca-42-446?item=13
-with this cable the phone can also be connected to the PC to use http://gnokii.org/ or http://wammu.eu/gammu/
-for more information about the protocol see this page http://www.embedtronics.com/nokia/fbus.html
+For connecting my phone to Arduino I used [this cable](http://www.dealextreme.com/p/data-cable-compatible-with-nokia-ca-42-446?item=13). The cable can also be used to connected the phone to a linux PC and then controlled by [gnokii](http://gnokii.org/) or [gammu](http://wammu.eu/gammu/). For more information about the protocol see [this page](http://www.embedtronics.com/nokia/fbus.html)
 
 
 CREDITS ^-^
 ===========
 
-#open source projects for serial communication for variouse phones
 http://gnokii.org/
 http://wammu.eu/gammu/
