@@ -1,7 +1,7 @@
 DESCRIPTION
 ===========
 
-<img alt="arduino-nokia" src="http://1.bp.blogspot.com/-Hirf4aZHbRI/UUrbZICU1rI/AAAAAAAAAKM/5wMKTcCDhW4/s1600/Arduino_3310.jpg" width="218px">
+<img alt="arduino-nokia" src="https://lh3.googleusercontent.com/-tteeGAZF8JM/VQSV9ZCOcEI/AAAAAAAAPKY/6l8JFqd1-8s/w1222-h917-no/IMG_20150314_210941.jpg" width="218px">
 ![fbus-connectors](https://lh4.googleusercontent.com/-phU7G6n1tDk/VKWLq1Vs96I/AAAAAAAAJrs/Do9PwlSf0Ak/w310-h163-no/jo.jpg)
 
 * Arduino based security system which uses motion sensors and Nokia phone to send SMS or make a call
