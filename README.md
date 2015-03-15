@@ -13,7 +13,7 @@
 For connecting my phone to Arduino I used [this cable](http://www.ebay.com/sch/i.html?_odkw=ca-42&_from=R40%7CR40%7CR40%7CR40%7CR40%7CR40&_osacat=0&_from=R40&_trksid=p2045573.m570.l1313.TR4.TRC1.A0.H0.Xca-42+cable.TRS0&_nkw=ca-42+cable&ghostText=&_sacat=0). The cable can also be used to connected the phone to a linux PC and then controlled by [gnokii](http://gnokii.org/) or [gammu](http://wammu.eu/gammu/). For more information about the protocol see [this page](http://www.embedtronics.com/nokia/fbus.html)
 
 
-# CREDITS ^-^
+# CREDITS ^_^
 
 http://gnokii.org/ <br>
 http://wammu.eu/gammu/
